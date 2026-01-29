@@ -14,3 +14,6 @@ const ErrorNote = ({ error }: ErrorProps) => {
 };
 
 export default ErrorNote;
+
+
+
